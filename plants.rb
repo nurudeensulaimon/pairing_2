@@ -1,6 +1,6 @@
-gets_sunshine = false
+gets_sunshine = true
 
-ounces_of_water = 2
+ounces_of_water = 12
 
 if gets_sunshine == true && ounces_of_water >= 10
     puts "plants will live"
